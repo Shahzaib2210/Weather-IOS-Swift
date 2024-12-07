@@ -11,7 +11,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		EAF515162CD7C47100E29A82 /* Exceptions for "Weather" folder in "Weather" target */ = {
+		EAB0E95C2CFE52B800B004A4 /* Exceptions for "Weather" folder in "Weather" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -21,10 +21,10 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EAF5150F2CD7C47100E29A82 /* Weather */ = {
+		EAB0E9552CFE52B800B004A4 /* Weather */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				EAF515162CD7C47100E29A82 /* Exceptions for "Weather" folder in "Weather" target */,
+				EAB0E95C2CFE52B800B004A4 /* Exceptions for "Weather" folder in "Weather" target */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
@@ -45,7 +45,7 @@
 		EA5918872CD7BF4300FB915D = {
 			isa = PBXGroup;
 			children = (
-				EAF5150F2CD7C47100E29A82 /* Weather */,
+				EAB0E9552CFE52B800B004A4 /* Weather */,
 				EA5918912CD7BF4300FB915D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -74,7 +74,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EAF5150F2CD7C47100E29A82 /* Weather */,
+				EAB0E9552CFE52B800B004A4 /* Weather */,
 			);
 			name = Weather;
 			packageProductDependencies = (
